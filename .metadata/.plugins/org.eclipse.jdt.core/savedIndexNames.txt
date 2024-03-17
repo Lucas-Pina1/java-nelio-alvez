@@ -1,0 +1,14 @@
+INDEX VERSION 1.134+C:\Users\lucas\workspace\curso-java-nelio\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3665306435.index
+762147630.index
+3996976546.index
+3709200218.index
+857441910.index
+1142732512.index
+1516913592.index
+984468061.index
+1131508473.index
+2853361612.index
+2910786517.index
+1303050955.index
